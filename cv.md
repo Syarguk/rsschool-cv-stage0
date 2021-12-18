@@ -2,7 +2,7 @@
 
 ### Contacts
 * **phone:** +375 29 278-30-58
-* **email:** sivy1@tut.by
+* **email:** si2vy1@tut.by
 * **telegram:** https://t.me/Syarzguk
 
 ### About myself
