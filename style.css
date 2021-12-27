@@ -46,11 +46,18 @@ main {
 }
 nav {
     background-color: #75716e;
-    display: flex;
-    justify-content: space-between;
     padding: 8px;
     margin-top: 45px;
     border-radius: 5px;
+}
+nav > ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+   
+}
+nav > ul > li {
+    margin-bottom: 0;
 }
 nav a {
     text-decoration: none;
